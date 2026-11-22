@@ -67,4 +67,8 @@ Fable Orchestrator and future orchestration skills.
   <img alt="Contribution Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Fireiscoolsolo&bg_color=0d1117&color=9ef6ee&line=ff3d8b&point=f5d142&area=true&area_color=ff3d8b&hide_border=true" width="95%" />
 </p>
 
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Fireiscoolsolo&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />

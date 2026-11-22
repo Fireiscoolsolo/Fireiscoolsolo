@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Fireiscoolsolo&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Building%20MCP%20servers%20%26%20AI%20tooling&descAlignY=60&descSize=18" width="100%" alt="Fireiscoolsolo banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Fireiscoolsolo&fontSize=56&fontColor=ffffff" width="100%" alt="Fireiscoolsolo banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF3D8B&center=true&vCenter=true&width=520&lines=TypeScript+%7C+JavaScript;MCP+servers+for+Claude;Orchestrating+AI+agents;Always+shipping+something" alt="Typing SVG" />
 
